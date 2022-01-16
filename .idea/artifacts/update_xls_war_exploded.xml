@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="update_xls:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/update_xls_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="update_xls/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="update_xls" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

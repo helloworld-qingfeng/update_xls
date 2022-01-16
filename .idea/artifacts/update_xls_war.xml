@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="update_xls:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/update_xls_war</output-path>
+    <root id="archive" name="update_xls_war.war">
+      <element id="artifact" artifact-name="update_xls:war exploded" />
+      <element id="dir-copy" path="$PROJECT_DIR$/web" />
+    </root>
+  </artifact>
+</component>
